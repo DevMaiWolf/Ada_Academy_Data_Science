@@ -1,2 +1,3 @@
-# Ada_Academy_Ci-ncia_de_Dados
-Repositório para os estudos de Ciências de Dado na Ada Academy.
+# Ada_Academy_Ciências_de_Dados
+Repositório para os estudos de Ciências de Dados na Ada Academy.
+Elas Tech Artemísia - CAIXA
